@@ -1,3 +1,6 @@
 Hi  i am currenty learning github
 Hi i will complete this file asap today.
 There is bug in this 
+Hey its fourth line
+doing changes 
+doing branching
